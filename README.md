@@ -1,9 +1,11 @@
-# 📍Project Checker
-💻 Repository with the start of creating an account checker. 💻
+# 📍Blooklet Phyton - Derek
+💻 Repository in order to learn python. 💻
 
-![Hacker-4k-Wallpaper](https://user-images.githubusercontent.com/112723617/197360889-11772f63-b828-4191-9c26-bf6b236170c8.jpg)
+![python-logo-4k-i6](https://user-images.githubusercontent.com/112723617/197363436-e073cca4-5a98-4683-b474-f9c18722f672.jpg)
 
-# 📍Objectives
-📌 Schedule an automated account checker.
+# 📍Course Objectives
+📌 Learn the python language.
 <br>
-📌 Acquire programming knowledge in any type of language.
+📌 Programming in python.
+<br>
+📌 Solve problems with python language.
