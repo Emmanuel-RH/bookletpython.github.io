@@ -9,3 +9,8 @@
 📌 Programming in python.
 <br>
 📌 Solve problems with python language.
+
+# 📍Study Tools
+📌 Programiz: www.programiz.com/python-programming
+<br>
+📌 Audiovisual content web.
